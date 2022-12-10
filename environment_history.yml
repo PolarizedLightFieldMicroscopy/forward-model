@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - numpy
+  - numpy=1.23.5
   - colorama
   - six
   - pip
