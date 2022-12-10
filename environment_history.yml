@@ -1,0 +1,54 @@
+name: blocks
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - colorama
+  - six
+  - pip
+  - jupyter_client
+  - prompt-toolkit
+  - openssl
+  - pure_eval
+  - pickleshare
+  - parso
+  - pywin32
+  - python-dateutil
+  - zeromq
+  - debugpy
+  - psutil
+  - ipython
+  - pygments
+  - zlib
+  - certifi
+  - wcwidth
+  - decorator
+  - tzdata
+  - tornado
+  - matplotlib-inline
+  - jedi
+  - traitlets
+  - backcall
+  - packaging
+  - libsodium
+  - asttokens
+  - pyparsing
+  - stack_data
+  - vc
+  - bzip2
+  - nest-asyncio
+  - sqlite
+  - tk
+  - libffi
+  - executing
+  - wincertstore
+  - ca-certificates
+  - pyzmq
+  - vs2015_runtime
+  - jupyter_core
+  - setuptools
+  - xz
+  - wheel
+  - entrypoints
+  - ipykernel
+prefix: C:\Users\gschl\anaconda3\envs\blocks
