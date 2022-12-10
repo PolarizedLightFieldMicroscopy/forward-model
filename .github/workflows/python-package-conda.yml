@@ -1,6 +1,6 @@
 name: Python Package using Conda
 
-on: [push, pull-request]
+on: [push, pull_request]
 # on:
 #   push:
 #     branches: [ $default-branch ]
